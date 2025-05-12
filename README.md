@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomarotco&show_icons=true&theme=radical)
 # Best-practice-for-network-segmentation
 ## What is this?
 This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.
@@ -111,7 +110,3 @@ Now you will have 2 computers on your desktop if you need access to production n
 * Submit your pull request;
 * Create [issue](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/issues/new);
 * Start [discussion](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/discussions/new).
-
-## If u like it?  
-[Please subscribe - this is free support for the project](https://www.instagram.com/lizzibi)
-![image](https://user-images.githubusercontent.com/29877074/149565429-821554fc-5bab-46ea-bbe3-429f54f0e7cb.png)
